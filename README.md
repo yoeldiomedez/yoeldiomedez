@@ -17,7 +17,6 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/375px-Bootstrap_logo.svg.png" alt="Bootstrap" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png" alt="Angular" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/375px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="42px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/300px-Git-logo.svg.png" alt="Git" height="42px"/>
 <br><br>
 
 ### Projects developed, 👀 them out:
