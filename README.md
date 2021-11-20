@@ -3,7 +3,7 @@
 - 🎓 I'm Systems Engineer
 - 🔗 My full resume is at [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
 
-### Tech and 🛠️ I work with:
+### Tech and 🛠️ I/'ve work/ed with:
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png" alt="PHP" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/300px-Laravel.svg.png" alt="Laravel" height="42px"/>
@@ -19,7 +19,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/375px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="42px"/>
 <br><br>
 
-### Projects developed, 👀 them out:
+### Some apps, 👀 them out:
 
 - 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
 - 🏥 [Medicure](https://medi-cure.herokuapp.com) (Gestión de Historiales Médicos)
