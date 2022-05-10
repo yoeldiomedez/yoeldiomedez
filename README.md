@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yoel
 
 - 🎓 I'm Systems Engineer
-- 🔗 My full resume is at [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
+- 🌐 My full resume is at [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
 
 ### Tech and 🛠️ I/'ve work/ed with:
 
