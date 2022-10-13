@@ -5,6 +5,7 @@
 
 ### Tech and 🛠️ I/'ve work/ed with:
 
+<img align="left" src="https://multicomputos.com/wp-content/uploads/2017/01/genexus-logo.png" alt="GeneXus" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png" alt="PHP" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/300px-Laravel.svg.png" alt="Laravel" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="Python" height="42px"/>
@@ -14,9 +15,6 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="CC3" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/368px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="42px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/375px-Bootstrap_logo.svg.png" alt="Bootstrap" height="42px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png" alt="Angular" height="42px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/375px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="42px"/>
 <br><br>
 
 ### Some apps, 👀 them out:
