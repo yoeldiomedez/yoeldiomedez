@@ -20,9 +20,9 @@
 ### Some apps, 👀 them out:
 
 - 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
-- 🏥 [Medicure](https://medi-cure.herokuapp.com) (Gestión de Historiales Médicos)
-- 💼 [EmployApp](https://employ-app.herokuapp.com) (Bolsa de Trabajo)
-- ⚰️ [Place2Sleep](https://place2sleep.herokuapp.com) (Administración de Cementerios)
+- 🏥 [Medicure](#) (Gestión de Historiales Médicos)
+- 💼 [EmployApp](#) (Bolsa de Trabajo)
+- ⚰️ [Place2Sleep](#) (Administración de Cementerios)
 
 <!--
 **yoeldiomedez/yoeldiomedez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
