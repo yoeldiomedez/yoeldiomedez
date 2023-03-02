@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Yoel
+### Hola! 👋 mi nombre es Yoel
 
-- 🎓 I'm Systems Engineer
-- 🌐 My full resume is at [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
+- 🎓 Ing. de Sistemas
+- 🌐 Mi CV completo disponible en [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
 
-### Tech and 🛠️ I/'ve work/ed with:
+### Tecnologías con las que trabajo o he trabajado:
 
 <img align="left" src="https://multicomputos.com/wp-content/uploads/2017/01/genexus-logo.png" alt="GeneXus" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png" alt="PHP" height="42px"/>
@@ -17,7 +17,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/368px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="42px"/>
 <br><br>
 
-### Some apps, 👀 them out:
+### Algo de mi trabajo:
 
 - 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
 - 🏥 [Medicure](#) (Gestión de Historiales Médicos)
