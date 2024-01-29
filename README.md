@@ -20,9 +20,9 @@
 ### Algo de mi trabajo:
 
 - 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
-- 🏥 [Medicure](https://medicure.up.railway.app) (Gestión de Historiales Médicos)
-- 💼 [EmployApp](https://employapp.up.railway.app) (Bolsa de Trabajo)
-- ⚰️ [Place2Sleep](https://place2sleep.up.railway.app) (Administración de Cementerios)
+- 🏥 [Medicure](#) (Gestión de Historiales Médicos)
+- 💼 [EmployApp](#) (Bolsa de Trabajo)
+- ⚰️ [Place2Sleep](#) (Administración de Cementerios)
 
 <!--
 **yoeldiomedez/yoeldiomedez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
