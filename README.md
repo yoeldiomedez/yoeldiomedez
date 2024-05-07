@@ -12,7 +12,7 @@
 
 ### Tecnologías con las que trabajo:
 
-<img align="left" src="https://multicomputos.com/wp-content/uploads/2017/01/genexus-logo.png" alt="GeneXus" height="42px"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/135222947" alt="GeneXus" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png" alt="PHP" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/300px-Laravel.svg.png" alt="Laravel" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="Python" height="42px"/>
