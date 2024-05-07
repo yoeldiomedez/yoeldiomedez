@@ -18,6 +18,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="Python" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/75px-Mysql.svg.png" alt="MySQL" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/300px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="42px"/>
+<img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle PL/SQL" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/375px-Microsoft_SQL_server_logo.png" alt="Microsoft SQL Server" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="CC3" height="42px"/>
