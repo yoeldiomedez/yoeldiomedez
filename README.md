@@ -1,9 +1,16 @@
 ### Hola! 👋 mi nombre es Yoel
 
 - 🎓 Ing. de Sistemas
-- 🌐 Mi CV completo disponible en [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
+- 🌐 Mi CV completo está disponible en [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
 
-### Tecnologías con las que trabajo o he trabajado:
+### Algo de mi portafolio:
+
+- 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
+- 🏥 [Medicure](https://youtu.be/cL1JnlfSh8o) (Gestión de Historiales Médicos)
+- 💼 [EmployApp](https://youtu.be/05Lndxdz5qU) (Bolsa de Trabajo)
+- ⚰️ [Place2Sleep](https://youtu.be/VwQjIXowQt8) (Administración de Cementerios)
+
+### Tecnologías con las que trabajo:
 
 <img align="left" src="https://multicomputos.com/wp-content/uploads/2017/01/genexus-logo.png" alt="GeneXus" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png" alt="PHP" height="42px"/>
@@ -15,14 +22,6 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/375px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="CC3" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/368px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="42px"/>
-<br><br>
-
-### Algo de mi trabajo:
-
-- 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
-- 🏥 [Medicure](https://youtu.be/cL1JnlfSh8o) (Gestión de Historiales Médicos)
-- 💼 [EmployApp](https://youtu.be/05Lndxdz5qU) (Bolsa de Trabajo)
-- ⚰️ [Place2Sleep](https://youtu.be/VwQjIXowQt8) (Administración de Cementerios)
 
 <!--
 **yoeldiomedez/yoeldiomedez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
