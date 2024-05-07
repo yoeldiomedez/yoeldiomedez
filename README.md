@@ -16,7 +16,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/300px-PHP-logo.svg.png" alt="PHP" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/300px-Laravel.svg.png" alt="Laravel" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="Python" height="42px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/75px-Mysql.svg.png" alt="MySQL" height="42px"/>
+<img align="left" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/300px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="42px"/>
 <img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle PL/SQL" height="42px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/he/thumb/3/39/Microsoft_SQL_server_logo.png/375px-Microsoft_SQL_server_logo.png" alt="Microsoft SQL Server" height="42px"/>
