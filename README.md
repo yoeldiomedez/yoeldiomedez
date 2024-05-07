@@ -5,7 +5,7 @@
 
 ### Algo de mi portafolio:
 
-- 🏪 [VShop](https://wshop.netlify.app) (Tienda Web de Comercio Electrónico)
+- 🏪 [VShop](https://wshop.netlify.app) (E-Commerce)
 - 🏥 [Medicure](https://youtu.be/cL1JnlfSh8o) (Gestión de Historiales Médicos)
 - 💼 [EmployApp](https://youtu.be/05Lndxdz5qU) (Bolsa de Trabajo)
 - ⚰️ [Place2Sleep](https://youtu.be/VwQjIXowQt8) (Administración de Cementerios)
