@@ -1,6 +1,6 @@
 ### Hola! 👋 mi nombre es Yoel
 
-- 🎓 Ing. de Sistemas
+- 👨‍💻 Ingeniero de Sistemas
 - 🌐 Mi CV completo está disponible en [yoeldiomedez.github.io](https://yoeldiomedez.github.io)
 
 ### Algo de mi portafolio:
